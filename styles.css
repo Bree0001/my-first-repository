@@ -1,0 +1,19 @@
+body {
+    font-family: "Cherry Cream Soda", cursive;
+    background-color: #ffc0cb; /* Pink */
+    color: #333; /* Dark Text Color */
+    margin: 20px;
+  }
+
+  
+
+  h1 {
+    color: #ff69b4; /* Hot Pink */
+    text-align: center;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #777; /* Light Gray */
+  }
